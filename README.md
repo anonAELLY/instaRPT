@@ -41,7 +41,7 @@ git clone https://github.com/anonAELLY/instaRPT
 ls 
 ```
 ```
-cd Reporter
+cd instaRPT
 ```
 ```
 python3 InstaReporter.py
