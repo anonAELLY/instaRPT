@@ -38,6 +38,6 @@ def print_logo():
     print(Fore.RED + Style.BRIGHT + logo + Style.RESET_ALL + Style.BRIGHT +"\n")
     print(Style.RESET_ALL + Style.BRIGHT, Style.BRIGHT)                                                  
     print(Fore.RED + "                                                      Youtube" + Fore.CYAN + " - Aelly Network ")
-    print(Fore.RED + "                                                      BY     " + Fore.CYAN + " - @Guccifer Shubham")
+    print(Fore.RED + "                                                      BY     " + Fore.CYAN + " - @anonAELLY")
     print(Fore.RED + "                                                      Telegram"+ Fore.CYAN + " - t.me/kkara9009 ")
     print(Fore.GREEN + "      Dark Squad Project: https://t.me/kkara9009"+ Style.RESET_ALL + Style.BRIGHT)
