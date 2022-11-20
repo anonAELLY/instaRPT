@@ -35,7 +35,7 @@ pkg install git
 pkg install python3
 ```
 ```
-git clone https://github.com/shubhushubhu99/InstaReporter.py
+git clone https://github.com/aellyHACK/instaRPT
 ```
 ```
 ls 
@@ -44,7 +44,7 @@ ls
 cd Reporter
 ```
 ```
-Python3 InstaReporter.py
+python3 InstaReporter.py
 ```
 
 
@@ -56,15 +56,4 @@ if pkg update command will not work then first upgrade your termux and type y al
 pkg upgrade
 pkg upgrade
 ```
-
-## Authors
-
-DARK SQUAD (ANONYMOUS)
-
-* AUTHER: GUCCIFER SHUBHAM
-* WHATSAPP: +91 9485875345
-* FACEBOOK: https://www.facebook.com/shubhushubhu99
-* INSTAGRAM: https://www.instagram.com/shubhushubhu99
-* TWITER: https://twitter.com/shubhushubhu99
-* YOUTUBE: https://www.youtube.com/channel/UCAopWtmrflBhznkOxHhSdIg
 
