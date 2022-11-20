@@ -35,7 +35,7 @@ pkg install git
 pkg install python3
 ```
 ```
-git clone https://github.com/aellyHACK/instaRPT
+git clone https://github.com/anonAELLY/instaRPT
 ```
 ```
 ls 
