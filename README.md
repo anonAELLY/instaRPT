@@ -20,10 +20,12 @@ This tool is strongly recommended for educational purpose but before using this 
 
 
 ### Modules which need to install
-
-* pip install requests
-* pip install colorama
-
+```
+ pip install requests
+```
+```
+ pip install colorama
+```
 
 
 ### Executing program
